@@ -35,3 +35,6 @@ toml_edit = "0.22"
 fs_extra = "1"
 clap = { version = "4.4.7", features = ["derive"]}
 home = "0.5"
+
+[dev-dependencies]
+toml = "0.8"
